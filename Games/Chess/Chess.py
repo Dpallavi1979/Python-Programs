@@ -8,6 +8,9 @@ pygame.init()
 mixer.init()
 
 
+
+
+
 loc = os.path.abspath("Games\Chess\Chess.py")
 bound = loc.index("Games")
 loc = loc[0:bound]
